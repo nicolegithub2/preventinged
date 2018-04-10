@@ -58,13 +58,13 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
+            "overlayColor": "#efefef",
             "overlayOpacity": 0.7
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8245-small-1-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8698-small-1-600x900.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -107,7 +107,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#f28281",
@@ -116,7 +116,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#f28281",
+            "overlayColor": "#efefef",
             "overlayOpacity": "0.6"
           },
           "media1": {
@@ -188,7 +188,7 @@
           "caption2": "Step into Nicole's home and let all your worries, tension, and stress all slip away. You body will be touched with care and pleasure, to help you feel pure enjoyable sensations, in a comfortable and relaxed setting. <br>1 hour starts at $99 to 129<br>",
           "title3": "<br>Special offers",
           "subtitle3": "One hour minimum",
-          "caption3": "Buy a massage bundle of 4 to get more than 50% off.&nbsp;<br>4 hour long sessions for $99<br><br><br>",
+          "caption3": "Buy a massage bundle of 4 to get more than 25% off.&nbsp;<br>4 hour long sessions for $299<br><br><br>",
           "title4": "Social &amp; massage",
           "subtitle4": "Starts at 2 and a half hours",
           "caption4": "This is the perfect session for those that would like to get to know me a little bit more before we start the massage. Lets, relax, chill, eat, and drink together while disusing the perfect way to give you a massage. There are options to visit you, go on a trip, or spend the night over at yours or mine. <br>2.5 hours starts at $249 <br>4 hours $349<br>Overnight – Midnight till 9am $349<br>24 hours $999<br>48 hours $1599<br>",
@@ -200,7 +200,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"tel:+12505084428\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
           "button2": "<a data-app-btn=\"true\" href=\"tel:+12505084428\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=199&amp;item_name=Custom+Item&amp;currency_code=USD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=299&amp;item_name=Custom+Item&amp;currency_code=USD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy now</a>",
           "button4": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -400,7 +400,7 @@
             "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#e18d8c",
+            "bgColor": "#28324e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -540,7 +540,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x9000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x9001.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -796,7 +796,7 @@
             "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#e18d8c",
+            "bgColor": "#28324e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
