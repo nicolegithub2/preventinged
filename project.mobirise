@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "prostate massage",
-    "currentPage": "index.html",
+    "currentPage": "sessions",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -421,11 +421,11 @@
         }
       ]
     },
-    "page1.html": {
+    "ED-articles": {
       "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "Sessions",
-        "order": 3
+        "meta_descr": "Preventing ED articles",
+        "title": "Articles ",
+        "order": 1
       },
       "components": [
         {
@@ -513,136 +513,92 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; Preventing ED<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-h"
+          "_anchor": "ext_menu-u"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": "3",
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-2.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#f28281",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f28281",
-            "overlayOpacity": "0.7"
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x9002.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8698-small-600x900.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8245-small-600x900.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-18516191-10211116808308118-1756952616-n-600x900.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Relaxing massage &amp;/or cuddles",
-          "subtitle1": "One hour minimum &nbsp;",
-          "caption1": "Come visit me and come for a relaxing, smoothing massage that focuses on your bodies aches and pains. You can also just come over for some cuddle time and we can chill and relax next to each other. <br>1 hour starts at $79<br>2 hours $149<br>",
-          "title2": "Sensual massage",
-          "subtitle2": "One hour minimum",
-          "caption2": "Step into Nicole's home and let all your worries, tension, and stress all slip away. You body will be touched with care and pleasure, to help you feel pure enjoyable sensations, in a comfortable and relaxed setting. <br>1 hour starts at $99<br>2 hours $179<br>",
-          "title3": "Couples massage",
-          "subtitle3": "One hour minimum",
-          "caption3": "Want to have some relaxing time with a bit of fun with your partner? Come see me and lets help give both partners a sensual massage. <br>1 hour starts at $149<br>2 hours $249&nbsp;<br>",
-          "title4": "Social &amp; massage",
-          "subtitle4": "Starts at 2 and a half hours",
-          "caption4": "This is the perfect session for those that would like to get to know me a little bit more before we start the massage. Lets, relax, chill, eat, and drink together while disusing the perfect way to give you a massage. There are options to visit you, go on a trip, or spend the night over at yours or mine. <br>2.5 hours starts at $249 <br>4 hours $349<br>Overnight – Midnight till 9am $349<br>24 hours $999<br>48 hours $1899<br>",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "WHAT IS PROSTATE MILKING?",
+          "meta": "By guest writer",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
+          "_name": "header3",
+          "_anchor": "header3-w"
+        },
+        {
           "_styles": {
-            "H5": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
-          "_anchor": "features3-k"
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "WHAT IS PROSTATE MILKING?",
+          "meta": "By guest writer",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>It is understood that the prostate gland produces some of the fluid in semen and plays a role in urine control in men, it is therefore very important to keep it safe and healthy. Prostate massage therapies or simply prostate massages are a good way of contributing to not only the well-being of the prostate but also derive sexual pleasure and orgasm. What then is prostate milking? Prostate massage is sometimes called prostate milking. This is because stimulation of the prostate helps release fluid from the prostate gland. According to Pleasure Mechanics, prostate milking can either be part of an ejaculatory orgasm, usually through a combination of prostate massage and genital stimulation. Sometimes, however, prostate milking is performed without genital stimulation and a small amount of clear fluid is released through the urethra. This form of prostate stimulation is sometimes done for health purposes, or as part of an erotic relationship using orgasm tease and denial.</p><p><br></p><p>\n</p><p>It should be noted that prostate milking is just basically another term for prostate massage, with more of an emphasis on the stimulation and release of fluid from the prostate gland. Prostate massage is used in conventional medicine and has been recommended by several doctors as a good way to care for the prostate. When it is done strictly without the aim of sexual gain, then it is simply milking the prostate. The focus of milking the prostate (prostate milking) is to drain fluid from the gland, encourage blood flow and fresh fluid production, flushing stagnant fluid out of the area and releasing chronic tension in the pelvis.&nbsp;</p>",
+          "text2": "<p>Just like the prostate massage, prostate milking can be internal or external and can comprise of both medical and sexual purposes. External prostate massage or milking is done by massaging the perineum. It is also known as the taint area or the male G-spot. The perineum is the region between the opening of the alimentary canal and the scrotal sacs and it is shaped like a diamond while internal is done by inserting an oil gloved finger into the anus to massage the gland. The end game of this is that prostate fluid is released and drained through your male genital organ. In simple terms, fluid flows through your male genital organ. This is called prostate milking. \n</p><p>Prostate milking has several health benefits. It is effective in reducing prostate pain and swelling, prevention of prostate disorders, keeps the prostate gland healthy and reduces the risk of prostate cancer, and gives pleasure to the man. Despite all these benefits, there are certain risks and side effects associated with prostate massage and milking. According to Wikipedia, Vigorous prostate massage has been documented to have injurious consequences: periprostatic hemorrhage, cellulitis, septicaemia, possible disturbance and metastasis of prostate cancer to other parts of the body, and hemorrhoidal flare-up, and rectal fissures. Asides all these, it could also damage the rectal line if care is not taken, worsen acute prostatitis and cause Cellulitis, a serious skin infection.\n</p><p>In conclusion, the importance of prostate massage and prostate milking to a good prostate gland cannot be overemphasized. It is safe to say that they are necessary to keep the gland in perfect condition. However proper steps and measures should be taken to ensure that they are done properly using safe techniques and in a safe environment to cut risks and prevent deadly side effects.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-z"
         }
       ]
     },
-    "page2.html": {
+    "contact": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "contact",
@@ -874,11 +830,11 @@
         }
       ]
     },
-    "page3.html": {
+    "sessions": {
       "settings": {
-        "meta_descr": "Web Creator Description",
-        "title": "Articles ",
-        "order": 1
+        "meta_descr": "Web Builder Description",
+        "title": "Sessions",
+        "order": 3
       },
       "components": [
         {
@@ -966,88 +922,129 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; Preventing ED<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-u"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "WHAT IS PROSTATE MILKING?",
-          "meta": "By guest writer",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-w"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "5",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "WHAT IS PROSTATE MILKING?",
-          "meta": "By guest writer",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-x"
+          "_anchor": "ext_menu-h"
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>It is understood that the prostate gland produces some of the fluid in semen and plays a role in urine control in men, it is therefore very important to keep it safe and healthy. Prostate massage therapies or simply prostate massages are a good way of contributing to not only the well-being of the prostate but also derive sexual pleasure and orgasm. What then is prostate milking? Prostate massage is sometimes called prostate milking. This is because stimulation of the prostate helps release fluid from the prostate gland. According to Pleasure Mechanics, prostate milking can either be part of an ejaculatory orgasm, usually through a combination of prostate massage and genital stimulation. Sometimes, however, prostate milking is performed without genital stimulation and a small amount of clear fluid is released through the urethra. This form of prostate stimulation is sometimes done for health purposes, or as part of an erotic relationship using orgasm tease and denial.</p><p><br></p><p>\n</p><p>It should be noted that prostate milking is just basically another term for prostate massage, with more of an emphasis on the stimulation and release of fluid from the prostate gland. Prostate massage is used in conventional medicine and has been recommended by several doctors as a good way to care for the prostate. When it is done strictly without the aim of sexual gain, then it is simply milking the prostate. The focus of milking the prostate (prostate milking) is to drain fluid from the gland, encourage blood flow and fresh fluid production, flushing stagnant fluid out of the area and releasing chronic tension in the pelvis.&nbsp;</p>",
-          "text2": "<p>Just like the prostate massage, prostate milking can be internal or external and can comprise of both medical and sexual purposes. External prostate massage or milking is done by massaging the perineum. It is also known as the taint area or the male G-spot. The perineum is the region between the opening of the alimentary canal and the scrotal sacs and it is shaped like a diamond while internal is done by inserting an oil gloved finger into the anus to massage the gland. The end game of this is that prostate fluid is released and drained through your male genital organ. In simple terms, fluid flows through your male genital organ. This is called prostate milking. \n</p><p>Prostate milking has several health benefits. It is effective in reducing prostate pain and swelling, prevention of prostate disorders, keeps the prostate gland healthy and reduces the risk of prostate cancer, and gives pleasure to the man. Despite all these benefits, there are certain risks and side effects associated with prostate massage and milking. According to Wikipedia, Vigorous prostate massage has been documented to have injurious consequences: periprostatic hemorrhage, cellulitis, septicaemia, possible disturbance and metastasis of prostate cancer to other parts of the body, and hemorrhoidal flare-up, and rectal fissures. Asides all these, it could also damage the rectal line if care is not taken, worsen acute prostatitis and cause Cellulitis, a serious skin infection.\n</p><p>In conclusion, the importance of prostate massage and prostate milking to a good prostate gland cannot be overemphasized. It is safe to say that they are necessary to keep the gland in perfect condition. However proper steps and measures should be taken to ensure that they are done properly using safe techniques and in a safe environment to cut risks and prevent deadly side effects.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-y"
-        },
-        {
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "socialFacebook": true,
-            "postsNumber": 5,
-            "socialGoogle": false,
-            "socialDisqus": false,
-            "shortName": "",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.6"
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
-          "alias": "facebook-comments",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8698-small-1-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8245-small-1-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "file:///C:/Users/Owner/AppData/Local/Mobirise.com/Mobirise/projectData/watermarked-18516191_10211116808308118_1756952616_n-600x900_3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Prostate masasge",
+          "subtitle1": "One hour minimum &nbsp;",
+          "caption1": "Come visit me &nbsp;for a relaxing, smoothing massage that also focuses Erectile dysfunction (ED).&nbsp;<br>1 hour starts at $99 to $129<br><br><br>",
+          "title2": "<br><br>Regular massage",
+          "subtitle2": "One hour minimum",
+          "caption2": "Step into Nicole's home and let all your worries, tension, and stress all slip away. You body will be touched with care and pleasure, to help you feel pure enjoyable sensations, in a comfortable and relaxed setting. <br>1 hour starts at $99 to 129<br>",
+          "title3": "<br>Special offers",
+          "subtitle3": "One hour minimum",
+          "caption3": "Buy a massage bundle of 4 to get more than 25% off.&nbsp;<br>4 hour long sessions for $299<br><br><br>",
+          "title4": "Social &amp; massage",
+          "subtitle4": "Starts at 2 and a half hours",
+          "caption4": "This is the perfect session for those that would like to get to know me a little bit more before we start the massage. Lets, relax, chill, eat, and drink together while disusing the perfect way to give you a massage. There are options to visit you, go on a trip, or spend the night over at yours or mine. <br>2.5 hours starts at $249 <br>4 hours $349<br>Overnight – Midnight till 9am $349<br>24 hours $999<br>48 hours $1599<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:+12505084428\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:+12505084428\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=299&amp;item_name=Custom+Item&amp;currency_code=USD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy now</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-z"
+          "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-10"
         }
       ]
     }
