@@ -1052,7 +1052,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"mailto:blissonblissinfo@gmail.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact</a> ",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"mailto:blissonblissinfo@gmail.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact</a> ",
           "_tags": [
             "Theme"
           ],
