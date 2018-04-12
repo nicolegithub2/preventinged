@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "prostate massage",
-    "currentPage": "sessions",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -85,7 +85,7 @@
             }
           },
           "title": "<br><br>Preventing ED&nbsp;",
-          "text": "Did you know that that a&nbsp;prostatic massage can help prevent erectile dysfunction?<br>Studies have found that men who get a regluar prostate massage for the symptoms of ED experience improvement.&nbsp;<br>",
+          "text": "Did you know that that a full body massage including prostatic massage can help prevent erectile dysfunction?<br>Studies have found that men who get a regluar full body masage and prostate massage for erectile dysfunction experienced improvement.&nbsp;<br><br>",
           "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index.html#features3-6\">Prostate massage session</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"page3.html\">Read about prostate massage</a>",
